@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DFS-BFS-Visualizer/static/css/main.01e67575.css",
+    "main.js": "/DFS-BFS-Visualizer/static/js/main.e0a00fd7.js",
+    "static/js/453.11751fbc.chunk.js": "/DFS-BFS-Visualizer/static/js/453.11751fbc.chunk.js",
+    "index.html": "/DFS-BFS-Visualizer/index.html",
+    "main.01e67575.css.map": "/DFS-BFS-Visualizer/static/css/main.01e67575.css.map",
+    "main.e0a00fd7.js.map": "/DFS-BFS-Visualizer/static/js/main.e0a00fd7.js.map",
+    "453.11751fbc.chunk.js.map": "/DFS-BFS-Visualizer/static/js/453.11751fbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e67575.css",
+    "static/js/main.e0a00fd7.js"
+  ]
+}
